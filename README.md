@@ -42,6 +42,7 @@ Maintained by [HoardAds](https://hoardads.com). This list is the GitHub edition 
 - [Apify](https://apify.com/pricing) - $5 of platform usage credit every month for web-scraping and automation actors; unused credit does not roll over.
 - [Databricks Free Edition](https://www.databricks.com/learn/free-edition) - A permanent free workspace with serverless compute, notebooks and SQL for learning data and AI; daily quotas apply.
 - [Cloady](https://cloady.com/docs/hosting) - Free cloud workspace: 0.5 vCPU, 1 GB RAM, 5 GB SSD and 10 GB/month transfer (EU1/USE1/USW1 regions — read the limits before you build on it).
+- [Sandscale](https://sandscale.dev/pricing) - Free plan for Firecracker microVM sandboxes used by AI coding agents: 100 awake vCPU-hours a month, 3 boxes at once, 5 GB storage and one workspace.
 
 → Details, limits and eligibility: [hoardads.com/free-resources/#free-tiers](https://hoardads.com/free-resources/#free-tiers)
 
